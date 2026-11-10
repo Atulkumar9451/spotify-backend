@@ -25,7 +25,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(cookieParser());
 
-const allowedOrigins = ["http://localhost:5173"]
+const allowedOrigins = ["https://atulkumar9451-spotify-clone.vercel.app/"]
 
 app.use(cors({
   origin: function (origin, callBack) {
