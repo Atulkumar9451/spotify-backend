@@ -1,0 +1,9 @@
+middleware ke kaam ->
+
+1:request ke andar jo bhi data ata hai use read kar sakta hai 
+
+2:use modify bhi kar sakta hai
+
+3:respons bhi send kar sakta hai
+
+auth middleware me dekh lo ye sab kaam kar rha hia usme
